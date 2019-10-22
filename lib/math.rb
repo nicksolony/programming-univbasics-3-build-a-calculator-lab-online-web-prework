@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
 result = num2/num1
-return result.class Integer
+return result
 end
 
 
