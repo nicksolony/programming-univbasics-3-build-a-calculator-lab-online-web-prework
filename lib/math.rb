@@ -21,6 +21,8 @@ end
 def modulo(num1, num2)
 result = num2/num1
 return result.class Integer
+end
+
 
 def square_root(num)
   result = math.sqrt(num1)
