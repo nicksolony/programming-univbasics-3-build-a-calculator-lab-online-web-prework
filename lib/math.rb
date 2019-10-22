@@ -25,6 +25,6 @@ end
 
 
 def square_root(num)
-  puts = math.sqrt(num)
+  math.sqrt(num)
 # return result
 end
